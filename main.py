@@ -1,5 +1,4 @@
 
-import math
 # 1problems
 # n=int(input())
 # for i in range(n+1):
@@ -11,6 +10,7 @@ import math
 #    print(i)
 ##############
 # 3 problems
+#import math
 # n=int(input())
 # print(math.factorial(n))
 ##############
